@@ -13,13 +13,13 @@
 
 html {
     zoom: var(--rzf, 1);
-    font-size: max(calc(min(var(--1vw, 1vw), 13.66px) * var(--rfso, 1)), var(--minfs, 0px));
+    font-size: max(calc(min(var(--1vw, 1vw), 20.66px) * var(--rfso, 1)), var(--minfs, 0px));
     -webkit-text-size-adjust: 100%;
     scroll-behavior: smooth;
 }
 
 body {
-    font-size: calc(1rem * var(--bfso, 1));
+    font-size: calc(1.1rem * var(--bfso, 1));
 }
 
 body,
@@ -14055,7 +14055,7 @@ img {
             }
 
             #CjOmnx7I46R1Q3np {
-                grid-area: 2 / 2 / 5 / 3;
+                grid-area: 1 / 2 / 4 / 3;
                 position: relative;
             }
 
@@ -14158,7 +14158,7 @@ img {
             }
 
             #V0UAWsZgG036XeVY {
-                grid-area: 3 / 4 / 4 / 5;
+                grid-area: 10 / 2 / 4 / 5;
                 position: relative;
             }
 
@@ -14203,11 +14203,11 @@ img {
             }
 
             #O0gkKuvKIw0j7AoQ {
-                font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(1.26623047em - var(--ffsd)));
+                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(2.26623047em - var(--ffsd)));
             }
 
             #NxwDqPuJI96vuuzB {
-                --first-font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), 1.26623047em);
+                --first-font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), 1.26623047em);
                 --last-font-size: var(--first-font-size);
                 margin-top: calc(var(--first-font-size) * -0.1);
                 margin-bottom: calc(var(--last-font-size) * -0.1);
@@ -14324,7 +14324,7 @@ img {
             }
 
             #nXS3Zlc0wNrvKMLd {
-                grid-area: 2 / 4 / 3 / 7;
+                grid-area: 2 / 2/ 3 / 7;
                 position: relative;
             }
 
@@ -14604,7 +14604,7 @@ img {
             }
 
             #X975GxHakFKUHysz {
-                --first-font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), 1.6568457em);
+                --first-font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), 1.6568457em);
                 --last-font-size: var(--first-font-size);
                 margin-top: calc(var(--first-font-size) * -0.1);
                 margin-bottom: calc(var(--last-font-size) * -0.1);
@@ -14626,16 +14626,16 @@ img {
             }
 
             #gbdNhr8ZesQO6OpH {
-                grid-area: 5 / 5 / 8 / 6;
+                grid-area: 2/ 6 / 8 / 6;
                 position: relative;
             }
 
             #YfoaH4vaMqDBPMnG {
-                font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(1.79641908em - var(--ffsd)));
+                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.79641908em - var(--ffsd)));
             }
 
             #yg2VOVpxtydvKoNR {
-                --first-font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), 1.79641908em);
+                --first-font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), 1.79641908em);
                 --last-font-size: var(--first-font-size);
                 margin-top: calc(var(--first-font-size) * -0.1);
                 margin-bottom: calc(var(--last-font-size) * -0.1);
