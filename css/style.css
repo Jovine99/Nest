@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    font-size: calc(1.6rem * var(--bfso, 1));
+    font-size: calc(1rem * var(--bfso, 1));
 }
 
 body,
@@ -12279,7 +12279,7 @@ img {
             }
 
             #BYtQREjVHYiEr5Gf {
-                grid-area: 4 / 3 / 7 / 16;
+                grid-area: 4 / 4 / 6 / 16;
                 position: relative;
             }
 
@@ -12304,7 +12304,7 @@ img {
             }
 
             #lCR7mmyuZXP5yWeF {
-                grid-area: 3 / 4 / 4 / 7;
+                grid-area: 4 / 4 / 4 / 7;
                 position: relative;
             }
 
@@ -12353,7 +12353,7 @@ img {
             }
 
             #uYDikfGFDElpRU1x {
-                grid-area: 5 / 3 / 9 / 17;
+                grid-area: 5 / 10 / 9 / 17;
                 position: relative;
             }
 
@@ -12387,17 +12387,17 @@ img {
             }
 
             #Wv4HNVnhjnGzAi6M {
-                grid-area: 5 / 2 / 8 / 12;
+                grid-area: 6 / 9 / 8 / 12;
                 position: relative;
             }
 
             #KHjkXs6Wy6CwYHQG {
-                grid-area: 13 / 4 / 16 / 4;
+                grid-area: 4 / 19 / 9 / 14;
                 position: relative;
             }
 
             #tZNqiIYVmoohIZmO {
-                grid-area: 2 / 2 / 11 / 11;
+                grid-area: 2 / 1 / 11 / 11;
                 position: relative;
             }
 
@@ -12415,7 +12415,7 @@ img {
             }
 
             #yQufwHolfuh5d7aM {
-                grid-area: 3 / 3 / 4 / 4;
+                grid-area: 2 / 3 / 4 / 4;
                 position: relative;
             }
 
@@ -12445,7 +12445,7 @@ img {
             }
 
             #Ojt8DKRRVzlpJEo5 {
-                grid-area: 5 / 4 / 6 / 9;
+                grid-area: 7/ 6 / 6 / 9;
                 position: relative;
             }
 
@@ -12494,7 +12494,7 @@ img {
             }
 
             #Zomj2f8S3E0kJiYA {
-                grid-area: 5 / 4 / 17 / 5;
+                grid-area: 5 / 19 / 12 / 17;
                 position: relative;
             }
 
@@ -12723,7 +12723,7 @@ img {
             }
 
             #fS9BjTPToLCSzxbd {
-                grid-template-columns: 3.84724517rem 0 27.71407095rem 0 2.37228591rem 0 2.17169378rem 0.02297942rem 0.052358rem 0.34309149rem 23.41172254rem 0.32074931rem 1.84650388rem 0 1.15305931rem 0.63894442rem 0.55174627rem 31.70630438rem 3.84724517rem;
+                grid-template-columns: 3.84724517rem 0 16.71407095rem 0 2.37228591rem 0 2.17169378rem 0.02297942rem 0.052358rem 0.34309149rem 23.41172254rem 0.32074931rem 1.84650388rem 0 1.15305931rem 0.63894442rem 0.55174627rem 31.70630438rem 3.84724517rem;
                 grid-template-rows: minmax(2.754287rem, max-content) minmax(3.16451306rem, max-content) minmax(1.9350509rem, max-content) minmax(7.06223871rem, max-content) minmax(15.62687744rem, max-content) minmax(0.88594308rem, max-content) minmax(2.50868506rem, max-content) minmax(12.77835048rem, max-content) minmax(3.125rem, max-content) minmax(0.73336646rem, max-content) minmax(0.08312807rem, max-content) minmax(12.5172416rem, max-content) minmax(0.12238807rem, max-content) minmax(11.21907489rem, max-content) minmax(0.22612584rem, max-content) minmax(14.6941363rem, max-content) 0 0 minmax(2.754287rem, max-content);
             }
 
@@ -12779,7 +12779,7 @@ img {
             }
 
             #UNxIg2xuLhUkXAmw {
-                font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(1.56250781em - var(--ffsd)));
+                font-size: max(calc(20px * var(--rfso, var(--bfso, 1))), calc(1.56250781em - var(--ffsd)));
             }
 
             #To2oZYYOpR2G9Df9 {
@@ -12790,7 +12790,7 @@ img {
             }
 
             #dHpXHpGa8tpUp0yH {
-                min-width: 93.79882812rem;
+                min-width: 90.79882812rem;
             }
 
             #ZHoJotsmMwbGWsjU {
@@ -12930,7 +12930,7 @@ img {
             }
 
             #OlPBy1bqIswLIcNb {
-                grid-template-columns: 0 1.26525396rem 43.41800591rem 13.85404682rem;
+                grid-template-columns: 0 1.26525396rem 40.41800591rem 15.85404682rem;
                 grid-template-rows: 0 minmax(40.05484888rem, max-content) minmax(3.37321877rem, max-content) minmax(2.24356572rem, max-content);
             }
 
@@ -12941,7 +12941,7 @@ img {
             }
 
             #KudO5OKLjoh0TdEl {
-                grid-area: 10 / 4 / 13 / 9;
+                grid-area: 9 / 4 / 13 / 9;
                 position: relative;
             }
 
@@ -12993,7 +12993,7 @@ img {
             }
 
             #LPwl0haKipn9Yprp {
-                grid-template-columns: 3.125rem 0 19.60150101rem 1.23313007rem 1.77171557rem 0.50844574rem 12.29573373rem 20.72828158rem 1.69400483rem 0.80239508rem 0.50844574rem 1.77171557rem 0.63312657rem 26.20150452rem 3.125rem;
+                grid-template-columns: 3.125rem 0 16.60150101rem 1.23313007rem 1.77171557rem 0.50844574rem 30.29573373rem 20.72828158rem 1.69400483rem 0.80239508rem 0.50844574rem 1.77171557rem 0.63312657rem 26.20150452rem 3.125rem;
                 grid-template-rows: minmax(1.60295651rem, max-content) minmax(8.42480453rem, max-content) minmax(1.00918396rem, max-content) minmax(3.20803249rem, max-content) minmax(2.79940979rem, max-content) minmax(45.67163336rem, max-content) minmax(3.125rem, max-content) minmax(45.67163336rem, max-content) minmax(3.125rem, max-content) minmax(21.80132502rem, max-content) minmax(3.71568295rem, max-content) minmax(20.15462539rem, max-content) minmax(3.83237409rem, max-content) minmax(3.39462814rem, max-content) minmax(1.60295651rem, max-content);
             }
 
@@ -14203,11 +14203,11 @@ img {
             }
 
             #O0gkKuvKIw0j7AoQ {
-                font-size: max(calc(24px * var(--rfso, var(--bfso, 1))), calc(2.26623047em - var(--ffsd)));
+                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(2.26623047em - var(--ffsd)));
             }
 
             #NxwDqPuJI96vuuzB {
-                --first-font-size: max(calc(24px * var(--rfso, var(--bfso, 1))), 1.26623047em);
+                --first-font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), 1.26623047em);
                 --last-font-size: var(--first-font-size);
                 margin-top: calc(var(--first-font-size) * -0.1);
                 margin-bottom: calc(var(--last-font-size) * -0.1);
