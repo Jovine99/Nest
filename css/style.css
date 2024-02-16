@@ -11319,7 +11319,7 @@ img {
             }
 
             #OColpPahS3obC8lv {
-                font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(1.56253906em - var(--ffsd)));
+                font-size: max(calc(24px * var(--rfso, var(--bfso, 1))), calc(1.56253906em - var(--ffsd)));
             }
 
             #Gv4C3HJkx9B6aH89 {
@@ -11384,7 +11384,7 @@ img {
             }
 
             #ElNKLvQBLIczqD6P {
-                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.50171135em - var(--ffsd)));
+                font-size: max(calc(22px * var(--rfso, var(--bfso, 1))), calc(1.50171135em - var(--ffsd)));
             }
 
             #NUUgeAU014gNl60R {
@@ -11460,7 +11460,7 @@ img {
             }
 
             #xRLmixvqNxEMr3DO {
-                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.29103969em - var(--ffsd)));
+                font-size: max(calc(21px * var(--rfso, var(--bfso, 1))), calc(1.29103969em - var(--ffsd)));
             }
 
             #ItwvYvFIOCz7ZvGs {
@@ -11688,7 +11688,7 @@ img {
             }
 
             #HrK8RQZAgTjmnfkZ {
-                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.22116555em - var(--ffsd)));
+                font-size: max(calc(22px * var(--rfso, var(--bfso, 1))), calc(1.22116555em - var(--ffsd)));
             }
 
             #RwD3y4JCacm73xBh {
@@ -11830,13 +11830,13 @@ img {
             }
 
             #c0zsdf0CZkrtDjH0 {
-                grid-area: 17 / 2 / 17 / 17;
+                grid-area: 16 / 2 / 17 / 17;
                 position: relative;
             }
 
             #JPKQ9v8fK8AeZMt9 {
-                grid-template-columns: 3.125rem 15.02097693rem 1.39970489rem 7.37143755rem 0.27703178rem 1.66713247rem 16.76749056rem 4.93207298rem 2.88557209rem 3.125rem 16.44701168rem 4.69589602rem 3.125rem 5.29938942rem 10.71530669rem 15.02097693rem 3.125rem;
-                grid-template-rows: minmax(2.89631638rem, max-content) minmax(3.68571877rem, max-content) minmax(1.83592969rem, max-content) minmax(1.84978909rem, max-content) minmax(2.54295914rem, max-content) 0 minmax(0.06815072rem, max-content) minmax(20.94899369rem, max-content) minmax(0.13630144rem, max-content) minmax(0.06815072rem, max-content) minmax(1.81166411rem, max-content) minmax(1.31333589rem, max-content) minmax(22.91952231rem, max-content) minmax(1.31333589rem, max-content) minmax(5.07841099rem, max-content) minmax(37.76909419rem, max-content);
+                grid-template-columns: 3.125rem 15.02097693rem 1.39970489rem 15.37143755rem 0.27703178rem 1.66713247rem 15.76749056rem 4.93207298rem 2.88557209rem 3.125rem 18.44701168rem 4.69589602rem 3.125rem 5.29938942rem 10.71530669rem 15.02097693rem 3.125rem;
+                grid-template-rows: minmax(2.89631638rem, max-content) minmax(3.68571877rem, max-content) minmax(1.83592969rem, max-content) minmax(1.84978909rem, max-content) minmax(2.54295914rem, max-content) 0 minmax(0.06815072rem, max-content) minmax(26.94899369rem, max-content) minmax(0.13630144rem, max-content) minmax(0.06815072rem, max-content) minmax(1.81166411rem, max-content) minmax(1.31333589rem, max-content) minmax(22.91952231rem, max-content) minmax(1.31333589rem, max-content) minmax(5.07841099rem, max-content) minmax(37.76909419rem, max-content);
             }
 
             #RLxVORqNvN5jcRZo {
@@ -11875,7 +11875,7 @@ img {
             }
 
             #bQ8Z2a2iyCKXiHq5 {
-                font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(1.63828878em - var(--ffsd)));
+                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.63828878em - var(--ffsd)));
             }
 
             #oVcjs0F9TjvFrG66 {
@@ -12225,7 +12225,7 @@ img {
             }
 
             #IqgUB2lAIkdjzqFU {
-                grid-template-columns: 3.125rem 0 17.5398356rem 0.05859345rem 0 25.1906737rem 2.46480381rem 0.05859345rem 3.06640655rem 0.05859345rem 27.71407095rem 0.05859345rem 17.5398356rem 0 3.125rem;
+                grid-template-columns: 3.125rem 0 16.5398356rem 0.05859345rem 0 28.1906737rem 2.46480381rem 0.05859345rem 3.06640655rem 0.05859345rem 27.71407095rem 0.05859345rem 17.5398356rem 0 3.125rem;
                 grid-template-rows: minmax(2.73620983rem, max-content) minmax(2.85458984rem, max-content) minmax(0.83111291rem, max-content) minmax(1.63068584rem, max-content) minmax(3.12806685rem, max-content) minmax(3.16451306rem, max-content) minmax(1.61952327rem, max-content) minmax(0.07654381rem, max-content) minmax(34.80464045rem, max-content) 0 minmax(2.66112678rem, max-content) minmax(0.46387322rem, max-content) minmax(35.15284312rem, max-content) 0 minmax(2.73620983rem, max-content);
             }
 
@@ -12723,7 +12723,7 @@ img {
             }
 
             #fS9BjTPToLCSzxbd {
-                grid-template-columns: 3.84724517rem 0 16.71407095rem 0 2.37228591rem 0 2.17169378rem 0.02297942rem 0.052358rem 0.34309149rem 23.41172254rem 0.32074931rem 1.84650388rem 0 1.15305931rem 0.63894442rem 0.55174627rem 31.70630438rem 3.84724517rem;
+                grid-template-columns: 3.84724517rem 0 12.71407095rem 0 2.37228591rem 0 2.17169378rem 0.02297942rem 0.052358rem 0.34309149rem 28.41172254rem 0.32074931rem 1.84650388rem 0 1.15305931rem 0.63894442rem 0.55174627rem 31.70630438rem 3.84724517rem;
                 grid-template-rows: minmax(2.754287rem, max-content) minmax(3.16451306rem, max-content) minmax(1.9350509rem, max-content) minmax(7.06223871rem, max-content) minmax(15.62687744rem, max-content) minmax(0.88594308rem, max-content) minmax(2.50868506rem, max-content) minmax(12.77835048rem, max-content) minmax(3.125rem, max-content) minmax(0.73336646rem, max-content) minmax(0.08312807rem, max-content) minmax(12.5172416rem, max-content) minmax(0.12238807rem, max-content) minmax(11.21907489rem, max-content) minmax(0.22612584rem, max-content) minmax(14.6941363rem, max-content) 0 0 minmax(2.754287rem, max-content);
             }
 
@@ -12790,7 +12790,7 @@ img {
             }
 
             #dHpXHpGa8tpUp0yH {
-                min-width: 90.79882812rem;
+                min-width: 93.79882812rem;
             }
 
             #ZHoJotsmMwbGWsjU {
