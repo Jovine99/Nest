@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    font-size: calc(1rem * var(--bfso, 1));
+    font-size: calc(1.5rem * var(--bfso, 1));
 }
 
 body,
@@ -12779,7 +12779,7 @@ img {
             }
 
             #UNxIg2xuLhUkXAmw {
-                font-size: max(calc(20px * var(--rfso, var(--bfso, 1))), calc(1.56250781em - var(--ffsd)));
+                font-size: max(calc(18px * var(--rfso, var(--bfso, 1))), calc(1.56250781em - var(--ffsd)));
             }
 
             #To2oZYYOpR2G9Df9 {
@@ -13397,7 +13397,7 @@ img {
             }
 
             #K28m9gaSqBZ5dOfQ {
-                grid-template-columns: 3.125rem 0 31.83706454rem 3.82126464rem 9.29411984rem 48.79755098rem 3.125rem;
+                grid-template-columns: 6.125rem 0 31.83706454rem 3.82126464rem 10.29411984rem 46.79755098rem 3.125rem;
                 grid-template-rows: 0 minmax(2.9861786rem, max-content) minmax(10.03412997rem, max-content) minmax(2.85646853rem, max-content) minmax(28.58935181rem, max-content) minmax(6.8300876rem, max-content);
             }
 
