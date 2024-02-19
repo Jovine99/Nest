@@ -13093,7 +13093,7 @@ img {
             }
 
             #aZuFk00W5inVAJgD {
-                font-size: calc(1.34538008em - var(--ffsd));
+                font-size: calc(3.34538008em - var(--ffsd));
             }
 
             #kTsD5d5KMRbyhrB9 {
@@ -13118,7 +13118,7 @@ img {
             }
 
             #kNizG3FnVSmob2XU {
-                grid-area: 3 / 2 / 4 / 4;
+                grid-area: 4 / 3 / 4 / 4;
                 position: relative;
             }
 
@@ -13187,7 +13187,7 @@ img {
             }
 
             #Ub394OsG8lznsbCv {
-                --first-font-size: 0.89365312em;
+                --first-font-size: 4.89365312em;
                 --last-font-size: var(--first-font-size);
                 margin-top: calc(var(--first-font-size) * -0.1);
                 margin-bottom: calc(var(--last-font-size) * -0.1);
@@ -13406,7 +13406,7 @@ img {
             }
 
             #qR9iTeHBhOSDykKq {
-                grid-area: 2 / 2 / 3 / 3;
+                grid-area: 5 / 3 / 5 / 6;
                 position: relative;
             }
 
