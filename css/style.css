@@ -13135,7 +13135,7 @@ img {
 
             #kNizG3FnVSmob2XU {
 
-                grid-area: 4 / 4 / 4 / 4;
+                grid-area: 4 / 3 / 4 / 4;
                 position: relative;
 
 
@@ -13413,13 +13413,13 @@ img {
             }
 
             #k48fhkq1LRlayVDi {
-                grid-area: 5 / 4 / 6 / 6;
+                grid-area: 5 / 2 / 6 / 6;
                 position: relative;
             }
 
             #K28m9gaSqBZ5dOfQ {
 
-                grid-template-columns: 3.125rem 0 31.83706454rem 3.82126464rem 9.29411984rem 48.79755098rem 3.125rem;
+                grid-template-columns: 3.125rem 0 12.83706454rem 3.82126464rem 9.29411984rem 48.79755098rem 3.125rem;
 
                 grid-template-rows: 0 minmax(2.9861786rem, max-content) minmax(10.03412997rem, max-content) minmax(2.85646853rem, max-content) minmax(28.58935181rem, max-content) minmax(6.8300876rem, max-content);
             }
@@ -13947,7 +13947,7 @@ img {
             }
 
             #mLimOcQhr8vCJ8bU {
-                grid-area: 4 / 3 / 6 / 4;
+                grid-area: 4 / 2 / 6 / 4;
                 position: relative;
             }
 
