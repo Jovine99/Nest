@@ -53,65 +53,10 @@ img {
     -webkit-user-drag: none;
     -moz-user-drag: none;
     -o-user-drag: none;
-    /* user-drag: none; */
+    user-drag: none;
     -webkit-touch-callout: none;
 }
 
-/* page-4 */
-#X0UsnU74LRdnwvXJ {
-    color:#000000;
-    font-family:YAFdtQi73Xs-0;
-    line-height:1.36616501em;
-    text-align:center;
-    text-transform:none;
-    letter-spacing:0em;
-}
-
-#IDLGF11k05kErFyP {
-    color:#000000;
-    font-family:YAFdtQi73Xs-0;
-    line-height:1.36616501em;
-    -align:center;
-    text-transform:none;
-    letter-spacing:0em;
-}
-
-#rwB6UY5KgQeHVrE2 {
-    display:grid;
-    position:relative;
-    grid-area:8 / 5 / 10 / 10;
-}
-
-#yvFzYde0V1uuzbft {
-    color:#000000;
-    font-family:YAFdtQi73Xs-0;
-    line-height:1.36616501em;
-    text-align:center;
-    text-transform:none;
-    letter-spacing:0em;
-}
-
-#jK9NBU0RzdzK1PmI {
-    display:grid;
-    position:relative;
-    grid-area:6 / 5 / 8 / 9;
-}
-
-#v735pWuKp0i2xhY7{
-    color:#000000;
-    font-family:YAFdtQi73Xs-0;
-    line-height:1.34332941em;
-    text-align:center;
-    text-transform:none;
-    letter-spacing:0em;
-}
-
-#p53LtsySvZSsgpaf {
-    display:grid;
-    position:relative;
-    grid-area:5 / 3 / 6 / 6;
-}
-/* page-4 end */
 
 @media (max-width: 375px) {
     #B6enuHDgtwj1L0S5 {
@@ -1366,7 +1311,6 @@ img {
 
     #X0UsnU74LRdnwvXJ {
         font-size: calc(4.87984em - var(--ffsd));
-        line-height:0.8em;
     }
 
     #NHii42cx0qaKSdDj {
@@ -1508,7 +1452,6 @@ img {
 
     #IDLGF11k05kErFyP {
         font-size: calc(4.87984em - var(--ffsd));
-        line-height: 0.8em;
     }
 
     #ahA6c9Z6WAXrdYRK {
@@ -1538,7 +1481,6 @@ img {
     #rwB6UY5KgQeHVrE2 {
         grid-template-columns: 0 73.78493868rem;
         grid-template-rows: 0 minmax(2.95139755rem, max-content);
-        grid-area: 10 / 5 / 11 / 10;
     }
 
     #dUgG4m7a42UMwVRa {
@@ -1617,7 +1559,6 @@ img {
 
     #yvFzYde0V1uuzbft {
         font-size: calc(4.87984em - var(--ffsd));
-        line-height: 0.8em;
     }
 
     #fJih0OSrPiULb9oD {
@@ -1652,7 +1593,6 @@ img {
     #jK9NBU0RzdzK1PmI {
         grid-template-columns: 0 74.0183798rem;
         grid-template-rows: 0 minmax(2.96073519rem, max-content);
-        grid-area:8 / 5 / 9 / 9;
     }
 
     #RnC7zdUXTY1jZUwR {
@@ -1704,7 +1644,6 @@ img {
     #p53LtsySvZSsgpaf {
         grid-template-columns: 0 73.78493868rem;
         grid-template-rows: 0 minmax(2.95139755rem, max-content);
-        grid-area: 6 / 3 / 7 / 6;
     }
 
     #n3s8x1rAYJBaXsWs {
@@ -1747,7 +1686,6 @@ img {
 
     #v735pWuKp0i2xhY7 {
         font-size: calc(4.16874667em - var(--ffsd));
-        line-height: 0.8em;
     }
 
     #uqne4SCS4vmdE4C5 {
