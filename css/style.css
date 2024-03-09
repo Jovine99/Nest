@@ -119,6 +119,16 @@ img {
 }
 
 /* page-4 end */
+/* page-7 */
+#aV1Rv4Hwik8GQy5c, #JK0EbYDW2R7KFmxo, #YDMFsZEsd4RldOKo {
+    color:#000000;
+    font-family:YAFdtQi73Xs-0;
+    line-height:1.36616501em;
+    text-align:center;
+    text-transform:none;
+    letter-spacing:0em;
+}
+/* page-7 end */
 
 @media (max-width: 375px) {
     #B6enuHDgtwj1L0S5 {
@@ -2450,6 +2460,12 @@ img {
         position: relative;
     }
 
+    /* page-7 */
+    .display-text {
+        display: none;
+    }
+    /* page-7 end */
+
     #hdCixLbjpyaIWxVX {
         grid-template-columns: 0 1.09748497rem 0 0 0 5.75652942rem 1.09748497rem 0 0 0.66867171rem 0 0.25886987rem 0 0 0 0 0 17.99918386rem 0 0.25886987rem 0 0 0 0 0 16.72051248rem;
         grid-template-rows: 0 minmax(1.40639073rem, max-content) minmax(1.04399832rem, max-content) minmax(0.47175222rem, max-content) minmax(1.55270234rem, max-content) minmax(0.45553406rem, max-content) minmax(0.49376562rem, max-content) minmax(1.76068254rem, max-content) minmax(2.10605224rem, max-content) 0 minmax(2.695515rem, max-content) minmax(0.14832403rem, max-content) minmax(0.1299152rem, max-content) minmax(1.97620893rem, max-content) minmax(2.52999259rem, max-content) minmax(0.70217958rem, max-content) minmax(1.55270234rem, max-content) minmax(0.01669273rem, max-content) minmax(0.70217958rem, max-content) minmax(1.55226858rem, max-content) minmax(1.36798327rem, max-content) minmax(0.7121814rem, max-content) minmax(1.55270234rem, max-content) minmax(0.7088705rem, max-content) 0 minmax(2.25444816rem, max-content);
@@ -2611,7 +2627,7 @@ img {
     }
 
     #FHEmgmYL1vpifmMl {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
     }
 
     #P1GOG8rqaw9al3qC {
@@ -2626,12 +2642,13 @@ img {
     }
 
     #v8Wicr6eKGqYAhg3 {
-        grid-area: 16 / 6 / 18 / 11;
+        grid-area: 15 / 3 / 17 / 9;
         position: relative;
     }
 
     #aV1Rv4Hwik8GQy5c {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #MUHmZ3e1YqhdS0CV {
@@ -2646,12 +2663,13 @@ img {
     }
 
     #BfF1qJcqd1pIJTCg {
-        grid-area: 17 / 12 / 19 / 23;
+        grid-area: 15 / 4 / 17 / 5;
         position: relative;
     }
 
     #JK0EbYDW2R7KFmxo {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #j0Gbi8LTOrBa2JBy {
@@ -2666,16 +2684,17 @@ img {
     }
 
     #ZRIsWqEhHUK3Ce8n {
-        grid-area: 20 / 9 / 22 / 14;
+        grid-area: 15 / 14 / 15 / 15;
         position: relative;
     }
 
     #pvo0wEsQpI36mpPE {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #LrvE0Uu8hF23kxpv {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
     }
 
     #byvJ2NrQyul3hudh {
@@ -2690,12 +2709,12 @@ img {
     }
 
     #jJcd1KOZ0VyPmTB8 {
-        grid-area: 21 / 16 / 23 / 20;
+        grid-area: 15 / 16 / 17 / 24;
         position: relative;
     }
 
     #YDMFsZEsd4RldOKo {
-        font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(4.87984em - var(--ffsd)));
+        font-size: max(calc(11px * var(--rfso, var(--bfso, 1))), calc(3.87984em - var(--ffsd)));
     }
 
     #VKqN8SBLv8nFHYAU {
@@ -2710,7 +2729,7 @@ img {
     }
 
     #Y2bacrejSHZOmkC1 {
-        grid-area: 24 / 4 / 25 / 27;
+        grid-area: 15 / 14 / 17 / 15;
         position: relative;
     }
 
@@ -2744,7 +2763,7 @@ img {
     }
 
     #lC0m53SIfgimp9tQ {
-        grid-area: 26 / 7 / 27 / 21;
+        grid-area: 21 / 7 / 27 / 22;
         position: relative;
     }
 
@@ -6120,6 +6139,12 @@ img {
         position: relative;
     }
 
+    /* page-7 */
+    .display-text {
+        display: none;
+    }
+    /* page-7 end */
+
     #hdCixLbjpyaIWxVX {
         grid-template-columns: 0 1.11988262rem 0 0 0 5.87400961rem 1.11988262rem 0 0 0.68231807rem 0 0.26415293rem 0 0 0 0 0 18.36651414rem 0 0.26415293rem 0 0 0 0 0 17.06174742rem;
         grid-template-rows: 0 minmax(1.43509258rem, max-content) minmax(1.0653044rem, max-content) minmax(0.48137981rem, max-content) minmax(1.58439014rem, max-content) minmax(0.46483067rem, max-content) minmax(0.50384247rem, max-content) minmax(1.79661483rem, max-content) minmax(2.1490329rem, max-content) 0 minmax(2.75052551rem, max-content) minmax(0.15135105rem, max-content) minmax(0.13256653rem, max-content) minmax(2.01653972rem, max-content) minmax(2.58162509rem, max-content) minmax(0.71650978rem, max-content) minmax(1.58439014rem, max-content) minmax(0.0170334rem, max-content) minmax(0.71650978rem, max-content) minmax(1.58394753rem, max-content) minmax(1.3959013rem, max-content) minmax(0.72671571rem, max-content) minmax(1.58439014rem, max-content) minmax(0.72333724rem, max-content) 0 minmax(2.3004573rem, max-content);
@@ -6296,12 +6321,13 @@ img {
     }
 
     #v8Wicr6eKGqYAhg3 {
-        grid-area: 16 / 5 / 19 / 7;
+        grid-area: 15 / 3 / 18 / 6;
         position: relative;
     }
 
     #aV1Rv4Hwik8GQy5c {
         font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(3.812375em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #MUHmZ3e1YqhdS0CV {
@@ -6316,12 +6342,13 @@ img {
     }
 
     #BfF1qJcqd1pIJTCg {
-        grid-area: 17 / 11 / 20 / 17;
+        grid-area: 15 / 5 / 18 / 9;
         position: relative;
     }
 
     #JK0EbYDW2R7KFmxo {
         font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(3.812375em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #j0Gbi8LTOrBa2JBy {
@@ -6336,12 +6363,13 @@ img {
     }
 
     #ZRIsWqEhHUK3Ce8n {
-        grid-area: 18 / 19 / 21 / 24;
+        grid-area: 15 / 12 / 17 / 17;
         position: relative;
     }
 
     #pvo0wEsQpI36mpPE {
         font-size: max(calc(12px * var(--rfso, var(--bfso, 1))), calc(3.812375em - var(--ffsd)));
+        text-transform: capitalize;
     }
 
     #LrvE0Uu8hF23kxpv {
@@ -6360,7 +6388,7 @@ img {
     }
 
     #jJcd1KOZ0VyPmTB8 {
-        grid-area: 23 / 10 / 25 / 14;
+        grid-area: 15 / 16 / 18 / 23;
         position: relative;
     }
 
@@ -6380,7 +6408,7 @@ img {
     }
 
     #Y2bacrejSHZOmkC1 {
-        grid-area: 22 / 15 / 24 / 20;
+        grid-area: 15 / 22 / 17 / 28;
         position: relative;
     }
 
@@ -9964,7 +9992,7 @@ img {
     }
 
     #v8Wicr6eKGqYAhg3 {
-        grid-area: 16 / 6 / 19 / 8;
+        grid-area: 15 / 3 / 18 / 5;
         position: relative;
     }
 
@@ -9984,7 +10012,7 @@ img {
     }
 
     #BfF1qJcqd1pIJTCg {
-        grid-area: 17 / 11 / 20 / 17;
+        grid-area: 15 / 5 / 18 / 12;
         position: relative;
     }
 
@@ -10004,7 +10032,7 @@ img {
     }
 
     #ZRIsWqEhHUK3Ce8n {
-        grid-area: 18 / 18 / 21 / 22;
+        grid-area: 15 / 13 / 18 / 16;
         position: relative;
     }
 
@@ -10028,7 +10056,7 @@ img {
     }
 
     #jJcd1KOZ0VyPmTB8 {
-        grid-area: 23 / 10 / 25 / 14;
+        grid-area: 15 / 18 / 17 / 22;
         position: relative;
     }
 
@@ -10048,7 +10076,7 @@ img {
     }
 
     #Y2bacrejSHZOmkC1 {
-        grid-area: 22 / 15 / 24 / 19;
+        grid-area: 15 / 24 / 17 / 24;
         position: relative;
     }
 
@@ -13633,7 +13661,7 @@ img {
     }
 
     #v8Wicr6eKGqYAhg3 {
-        grid-area: 17 / 6 / 22 / 7;
+        grid-area: 16 / 3 / 21 / 5;
         position: relative;
     }
 
@@ -13653,7 +13681,7 @@ img {
     }
 
     #BfF1qJcqd1pIJTCg {
-        grid-area: 18 / 9 / 23 / 12;
+        grid-area: 16 / 7 / 21 / 11;
         position: relative;
     }
 
@@ -13673,7 +13701,7 @@ img {
     }
 
     #ZRIsWqEhHUK3Ce8n {
-        grid-area: 19 / 14 / 24 / 15;
+        grid-area: 16 / 14 / 21 / 15;
         position: relative;
     }
 
@@ -13697,7 +13725,7 @@ img {
     }
 
     #jJcd1KOZ0VyPmTB8 {
-        grid-area: 20 / 17 / 25 / 20;
+        grid-area: 16 / 19 / 21 / 20;
         position: relative;
     }
 
@@ -13717,7 +13745,7 @@ img {
     }
 
     #Y2bacrejSHZOmkC1 {
-        grid-area: 16 / 21 / 21 / 23;
+        grid-area: 16 / 24 / 21 / 26;
         position: relative;
     }
 
