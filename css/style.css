@@ -5141,6 +5141,7 @@ img {
 
     #Mo84vF0rSS0ymF7t {
         font-size: calc(3.812375em - var(--ffsd));
+        padding-right: 3.5em;
     }
 
     #tVHeTDDlJHJ2A6ty {
@@ -5248,6 +5249,7 @@ img {
 
     #UhIJXPC5yxHTIms1 {
         font-size: calc(3.812375em - var(--ffsd));
+        padding-right: 3.5em;
     }
 
     #c2K2WdsfLB46b2wr {
@@ -5303,7 +5305,7 @@ img {
     }
 
     #d92HzxuSaXuUbYGa {
-        grid-area: 3 / 3 / 4 / 4;
+        grid-area: 1 / 3 / 3 / 4;
         position: relative;
     }
 
