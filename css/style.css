@@ -111,6 +111,13 @@ img {
     position:relative;
     grid-area:5 / 3 / 6 / 6;
 }
+
+#pHFz6StvWjvBULd0, #NwmPnduIAul0QoXi, #Js4pyT722OH4qzWM, #aYDVzqV4N6AOWWHO {
+    color:#000000;
+    font-weight:700;
+    /* white-space:pre-wrap; */
+}
+
 /* page-4 end */
 
 @media (max-width: 375px) {
