@@ -4082,6 +4082,9 @@ img {
         grid-area: 2 / 2 / 4 / 4;
         position: relative;
     }
+     #hamburger-menu {
+            display: block; /* Show the hamburger menu */
+        }
 
     #HrsOVd8Txbkd9oKr {
         grid-area: 3 / 3 / 5 / 5;
